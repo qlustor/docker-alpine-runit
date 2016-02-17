@@ -1,8 +1,8 @@
 [![](https://badge.imagelayers.io/qlustor/alpine-runit.svg)](https://imagelayers.io/?images=qlustor/alpine-runit 'Get your own badge on imagelayers.io')
 
-# Docker: glidelabs/alpine with runit
+# Docker: gliderlabs/alpine with runit
 
-Docker alpine & runit image built on gliderlabs/alpine Linux micro OS with the final image size of 8 MB vs. 100+ MB compared to the Ubuntu / Debian equivalent. It's intended to be used as a base image for building final app images ready for deployment.
+Docker alpine & runit image built on gliderlabs/alpine Linux micro OS with the final image size of ~6 MB vs. 100+ MB compared to the Ubuntu / Debian equivalent. It's intended to be used as a base image for building final app images ready for deployment.
 
 # Running
 
