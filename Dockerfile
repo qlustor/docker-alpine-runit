@@ -4,7 +4,7 @@ FROM gliderlabs/alpine:3.4
 MAINTAINER Team QLUSTOR <team@qlustor.com>
 
 # Install runit
-RUN echo "http://dl-4.alpinelinux.org/alpine/edge/testing" >>/etc/apk/repositories \
+RUN echo "http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories \
  && apk-install --update ca-certificates                \
  && update-ca-certificates                              \
  && apk-install runit
