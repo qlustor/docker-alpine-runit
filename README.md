@@ -1,4 +1,4 @@
-[![](https://badge.imagelayers.io/qlustor/alpine-runit.svg)](https://imagelayers.io/?images=qlustor/alpine-runit 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/qlustor/alpine-runit.svg)](https://microbadger.com/images/qlustor/alpine-runit "Get your own image badge on microbadger.com")
 
 # Docker: gliderlabs/alpine with runit
 
